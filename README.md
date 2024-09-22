@@ -24,3 +24,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ijustwantthenewone&show_icons=true&locale=en" alt="ijustwantthenewone" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ijustwantthenewone&" alt="ijustwantthenewone" /></p>
+
+
+![snake gif](https://github.com/Ijustwantthenewone/Ijustwantthenewone/blob/output/github-contribution-grid-snake.gif)
