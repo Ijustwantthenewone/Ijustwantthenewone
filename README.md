@@ -25,5 +25,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ijustwantthenewone&" alt="ijustwantthenewone" /></p>
 
-
 ![snake gif](https://github.com/Ijustwantthenewone/Ijustwantthenewone/blob/output/github-contribution-grid-snake.gif)
